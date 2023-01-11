@@ -1,0 +1,37 @@
+
+.top-container {
+    background-color: green;
+    height: max-content;
+    background-size: cover;
+}
+.button {
+    
+    color: beige;
+    
+}
+.button-container {
+    padding: 2px;
+}
+.login-button {
+    background-color: green;
+    color: white;
+    
+    width: 100px;
+}
+.para {
+    background-color: green;
+    color: white;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+
+}
+.jagan {
+    height: 150px;
+    width: 150px;
+    padding: 5px;
+}
+.copyright {
+    color: white;
+    font-size: 12px;
+}
