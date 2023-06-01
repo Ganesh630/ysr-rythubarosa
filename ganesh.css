@@ -35,3 +35,10 @@
     color: white;
     font-size: 12px;
 }
+.developer_button {
+    background-color: green;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+    padding:5px;
+}
